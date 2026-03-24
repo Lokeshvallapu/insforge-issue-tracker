@@ -48,6 +48,7 @@ Built using AI agent-driven development with InsForge MCP (Model Context Protoco
 
 
 ### Issue Tracking
+<img width="1910" height="589" alt="Screenshot 2026-03-24 170439" src="https://github.com/user-attachments/assets/f5e026a2-7233-42f5-805e-cb95cd5ba48f" />
 
 
 ## 🚀 Quick Start
