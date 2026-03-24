@@ -42,10 +42,12 @@ Built using AI agent-driven development with InsForge MCP (Model Context Protoco
 ## 📷 Screenshots
 
 ### Dashboard View
+<img width="1920" height="1080" alt="Screenshot 2026-03-24 170538" src="https://github.com/user-attachments/assets/9599f8c5-21a2-4b03-a898-409db81d64c3" />
 
 
 ### Project Management
 
+<img width="1905" height="649" alt="Screenshot 2026-03-24 170520" src="https://github.com/user-attachments/assets/e4da5d71-b5aa-4e0b-9d9a-0bcc74539a9d" />
 
 ### Issue Tracking
 <img width="1910" height="589" alt="Screenshot 2026-03-24 170439" src="https://github.com/user-attachments/assets/f5e026a2-7233-42f5-805e-cb95cd5ba48f" />
